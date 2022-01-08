@@ -1,0 +1,25 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand
+{
+    font-family: 'The Nautigal', cursive;
+    font-size:2em;
+
+}
+h2,p{
+    font-family: 'The Nautigal', cursive;
+    font-size:2em;
+    
+}
+p1
+{
+    font-family: 'Luxurious Roman', cursive;
+
+}
+.carousal-inner
+{
+    margin-top: 100px;
+}
